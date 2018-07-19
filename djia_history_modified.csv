@@ -1,0 +1,138 @@
+Company,DateAdded,DateAddedM,DateAddedD,DateAddedY,ReplacedBy,DateRemoved,DateRemovedM,DateRemovedD,DateRemovedY,DateAcquired,DateAcquiredM,DateAcquiredD,DateAcquiredY,Acquired,DateAbsorbed,DateAbsorbedM,DateAbsorbedD,DateAbsorbedY,AbsorbedBy,DateMerged1,DateMerged1M,DateMerged1D,DateMerged1Y,MergedWith1,MergedWith2,DateMerged2,DateMerged2M,DateMerged2D,DateMerged2Y,DateReorganized,DateReorganizedM,DateReorganizedD,DateReorganizedY,ReorganizedAs,Note,DateNameChange1,DateNameChange1M,DateNameChange1D,DateNameChange1Y,NameChanged1,DateNameChange2,DateNameChange2M,DateNameChange2D,DateNameChange2Y,NameChanged2,DateNameChange3,DateNameChange3M,DateNameChange3D,DateNameChange3Y,NameChanged3,DaysOn
+Chicago Gas Light and Coke Company ,5$26$1896,5,26,1896,,10$4$1916,10,4,1916,,,,,,3$24$1898,3,24,1898,Peoples Gas,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7435
+National Lead Company ,5$26$1896,5,26,1896,,10$4$1916,10,4,1916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7435
+United States Rubber Company ,5$26$1896,5,26,1896,Pacific Mail Steamship Company,11$10$1896,11,10,1896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,168
+"Tennessee Coal, Iron and Railroad Company ",5$26$1896,5,26,1896,General Electric Company,11$7$1907,11,7,1907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4181
+The American Cotton Oil Company ,5$26$1896,5,26,1896,Amalgamated Copper Mining Company,4$1$1901,4,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1770
+The United States Leather Company (Preferred) ,5$26$1896,5,26,1896,United States Rubber Company (First Preferred),4$1$1905,4,1,1905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3231
+American Tobacco Company ,5$26$1896,5,26,1896,Continental Tobacco Company,4$21$1899,4,21,1899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1060
+Distilling & Cattle Feeding Co. ,5$26$1896,5,26,1896,American Steel & Wire Co.,4$21$1899,4,21,1899,,,,,,,,,,,,,,,,,,,,,,,,,,,"August 26, 1896","August 26, 1896",,,American Spirits Manufacturing Co.,,,,,,,,,,,1060
+The Laclede Gas Company ,5$26$1896,5,26,1896,Federal Steel Company,4$21$1899,4,21,1899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1060
+The American Sugar Refining Company ,5$26$1896,5,26,1896,"Borden, Inc.",7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,Only precursor,,,,,,,,,,,,,,,,12470
+North American Company ,5$26$1896,5,26,1896,United States Cordage Company,8$26$1896,8,26,1896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92
+General Electric Company ,5$26$1896,5,26,1896,United States Rubber Company,9$1$1896,9,1,1896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98
+United States Cordage Company (Preferred),8$26$1896,8,26,1896,Standard Rope & Twine Co.,12$23$1896,12,23,1896,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,119
+Pacific Mail Steamship Company,11$10$1896,11,10,1896,United States Steel Corporation (Preferred),4$1$1901,4,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1602
+Standard Rope & Twine Co.,12$23$1896,12,23,1896,General Electric Company,4$21$1899,4,21,1899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,849
+United States Rubber Company,9$1$1898,9,1,1898,B.F. Goodrich Corporation,10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10987
+American Steel & Wire Co.,4$21$1899,4,21,1899,American Smelting & Refining Company,4$1$1901,4,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,710
+Federal Steel Company,4$21$1899,4,21,1899,International Paper Company (Preferred),4$1$1901,4,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,710
+General Electric Company,4$21$1899,4,21,1899,United States Steel Corporation,4$1$1901,4,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,710
+Continental Tobacco Company,4$21$1899,4,21,1899,American Car and Foundry Company,7$1$1901,7,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,801
+United States Steel Corporation (Preferred),4$1$1901,4,1,1901,,10$4$1916,10,4,1916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5665
+United States Steel Corporation,4$1$1901,4,1,1901,The Walt Disney Company,5$6$1991,5,6,1991,,,,,,,,,,,,,,,,,,,,,,,,,,,3$12$1987,3,12,1987,USX Corporation,,,,,,,,,,,32907
+American Smelting & Refining Company,4$1$1901,4,1,1901,Aluminum Company of America,6$1$1959,6,1,1959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21245
+International Paper Company (Preferred),4$1$1901,4,1,1901,Colorado Fuel and Iron Company,7$1$1901,7,1,1901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91
+Amalgamated Copper Mining Company,4$1$1901,4,1,1901,General Motors Corporation,8$31$1925,8,31,1925,,,,,,,,,,,,,,,,,,,,,7$29$1915,7,29,1915,Anaconda Copper Mining Company,,,,,,,,,,,,,,,,,8918
+American Car and Foundry Company,7$1$1901,7,1,1901,Atlantic Refining Company,10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9954
+Colorado Fuel and Iron Company,7$1$1901,7,1,1901,Central Leather Company,5$12$1912,5,12,1912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3968
+United States Rubber Company (First Preferred),4$1$1905,4,1,1905,General Motors Corporation,3$16$1915,3,16,1915,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3636
+General Electric Company,11$7$1907,11,7,1907,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2898
+Central Leather Company,5$12$1912,5,12,1912,American Tobacco Company (B shares),1$22$1924,1,22,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4272
+General Motors Corporation,3$16$1915,3,16,1915,,10$4$1916,10,4,1916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,568
+B.F. Goodrich Corporation,10$4$1916,10,4,1916,"Mack Trucks, Inc",1$22$1924,1,22,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2666
+The Texas Company,10$4$1916,10,4,1916,Sears Roebuck & Company,1$22$1924,1,22,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2666
+American Locomotive Company,10$4$1916,10,4,1916,Bethlehem Steel Corporation,10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4380
+American Telephone and Telegraph Company,10$4$1916,10,4,1916,Chrysler Corporation,10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4380
+Western Union Company,10$4$1916,10,4,1916,"International Nickel Company, Ltd.",10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4380
+Westinghouse Electric Corporation,10$4$1916,10,4,1916,Paramount Famous Lasky Corporation,12$7$1925,12,7,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3351
+Utah Copper Company,10$4$1916,10,4,1916,Standard Oil Co. (California),2$6$1924,2,6,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2681
+The American Beet Sugar,10$4$1916,10,4,1916,Corn Products Refining Company,3$1$1920,3,1,1920,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1244
+Republic Iron and Steel Company,10$4$1916,10,4,1916,F. W. Woolworth Company,5$12$1924,5,12,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2777
+American Can Company,10$4$1916,10,4,1916,Caterpillar Inc.,5$6$1991,5,6,1991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27242
+The Baldwin Locomotive Works,10$4$1916,10,4,1916,International Harvester Company,8$31$1925,8,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3253
+Studebaker Corporation,10$4$1916,10,4,1916,United States Realty and Construction Company,8$31$1925,8,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3253
+Corn Products Refining Company,3$1$1920,3,1,1920,E.I. du Pont de Nemours & Company,1$22$1924,1,22,1924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1422
+Sears Roebuck & Company,1$22$1924,1,22,1924,Microsoft Corporation,11$1$1999,11,1,1999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27677
+"Mack Trucks, Inc",1$22$1924,1,22,1924,"Mack Trucks, Inc. (stock dividend)",12$7$1925,12,7,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,685
+American Tobacco Company (B shares),1$22$1924,1,22,1924,Eastman Kodak Company,7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2369
+E.I. du Pont de Nemours & Company,1$22$1924,1,22,1924,Kennecott Mines Company,8$31$1925,8,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,587
+Standard Oil Co. (California),2$6$1924,2,6,1924,The Texas Company,8$31$1925,8,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,572
+F. W. Woolworth Company,5$12$1924,5,12,1924,"Wal-Mart Stores, Inc.",3$17$1997,3,17,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26607
+Kennecott Mines Company,8$31$1925,8,31,1925,Remington Typewriter Company,12$31$1925,12,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,122
+United States Realty and Construction Company,8$31$1925,8,31,1925,Allied Chemical and Dye Corporation,12$7$1925,12,7,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98
+The Texas Company,8$31$1925,8,31,1925,Johnson & Johnson,3$17$1997,3,17,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,6$1$1959,6,1,1959,Texaco Incorporated,,,,,,,,,,,26131
+International Harvester Company,8$31$1925,8,31,1925,J.P. Morgan & Company,5$6$1991,5,6,1991,,,,,,,,,,,,,,,,,,,,,,,,,,,3$12$1987,3,12,1987,Navistar International Corporation,,,,,,,,,,,23989
+General Motors Corporation,8$31$1925,8,31,1925,"The Travelers Companies, Inc.",6$8$2009,6,8,2009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30597
+Remington Typewriter Company,12$31$1925,12,31,1925,United Drug Stores,3$16$1927,3,16,1927,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,440
+"Mack Trucks, Inc. (ex-stock dividend)",12$31$1925,12,31,1925,Drug Incorporated,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2338
+"Mack Trucks, Inc. (stock dividend)",12$7$1925,12,7,1925,"Mack Trucks, Inc. (ex-stock dividend)",12$31$1925,12,31,1925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24
+Allied Chemical and Dye Corporation,12$7$1925,12,7,1925,Chevron Corporation,2$19$2008,2,19,2008,,,,,,,,,,,10$30$1985,10,30,1985,Signal Corp,Honeywell International,1$27$2003,1,27,2003,,,,,,,6$1$1959,6,1,1959,Allied Chemical Corporation,10$30$1985,10,30,1985,Allied-Signal Incorporated,1$27$2003,1,27,2003,Honeywell International,30024
+Paramount Famous Lasky Corporation,12$7$1925,12,7,1925,International Shoe Company,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,10$1$1928,10,1,1928,Paramount Publix,,,,,,,,,,,2362
+United Drug Stores,3$16$1927,3,16,1927,General Railway Signal Company,10$1$1928,10,1,1928,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,565
+North American Company,10$1$1928,10,1,1928,Johns-Manville Corporation,1$29$1930,1,29,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,485
+Victor Talking Machine Company,10$1$1928,10,1,1928,National Cash Register Company,1$8$1929,1,8,1929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,99
+Postum Incorporated,10$1$1928,10,1,1928,Philip Morris Companies Inc.,10$30$1985,10,30,1985,,,,,,,,,,,,,,,,,,,,,,,,,,,9$14$1929,9,14,1929,General Foods Corporation,,,,,,,,,,,20848
+Union Carbide Corporation,10$1$1928,10,1,1928,SBC Communications Inc.,11$1$1999,11,1,1999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25963
+"International Nickel Company, Ltd.",10$1$1928,10,1,1928,The Boeing Company,3$12$1987,3,12,1987,,,,,,,,,,,,,,,,,,,,,,,,,,,8$9$1976,8,9,1976,Inco,,,,,,,,,,,21346
+Bethlehem Steel Corporation,10$1$1928,10,1,1928,Hewlett-Packard Company,3$17$1997,3,17,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25004
+Westinghouse Electric Corporation,10$1$1928,10,1,1928,Travelers Inc.,3$17$1997,3,17,1997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25004
+Radio Corporation of America,10$1$1928,10,1,1928,Loew's Theatres Incorporated,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1333
+Texas Gulf Sulphur Company,10$1$1928,10,1,1928,Nash Motors Company,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1333
+Chrysler Corporation,10$1$1928,10,1,1928,International Business Machines Corporation,6$29$1979,6,29,1979,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18533
+Atlantic Refining Company,10$1$1928,10,1,1928,Goodyear Tire and Rubber Company,7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,655
+General Railway Signal Company,10$1$1928,10,1,1928,Liggett & Myers Tobacco Company,7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,655
+B.F. Goodrich Corporation,10$1$1928,10,1,1928,Standard Oil Co. of California,7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,655
+Nash Motors Company,10$1$1928,10,1,1928,United Aircraft and Transport Corporation,7$18$1930,7,18,1930,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,655
+Wright Aeronautical,10$1$1928,10,1,1928,Hudson Motor Car Company,7$18$1930,7,18,1930,,,,,,,,,,,9$14$1929,9,14,1929,Curtiss Aeroplane and Motor Company,,,,,,,,,,,,9$14$1929,9,14,1929,Curtiss-Wright Corporation,,,,,,,,,,,655
+Standard Oil Co. of New Jersey,10$1$1928,10,1,1928,,NOT,1,1,2017,,,,,,,,,,,1$27$2003,1,27,2003,Mobil,,,,,,,,,,,,8$9$1976,8,9,1976,Exxon Corporation,1$27$2003,1,27,2003,Exxon Mobil Corporation,,,,,,10532
+National Cash Register Company,1$8$1929,1,8,1929,International Business Machines Corporation,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1234
+Johns-Manville Corporation,1$29$1930,1,29,1930,American Express Company,8$30$1982,8,30,1982,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19206
+Goodyear Tire and Rubber Company,7$18$1930,7,18,1930,Intel Corporation,11$1$1999,11,1,1999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25308
+Standard Oil Co. of California,7$18$1930,7,18,1930,"The Home Depot, Inc.",11$1$1999,11,1,1999,,,,,,,,,,,,,,,,,,,,,,,,,,,10$30$1985,10,30,1985,Chevron Corporation,,,,,,,,,,,25308
+"Borden, Inc.",7$18$1930,7,18,1930,E.I. du Pont de Nemours & Company,11$20$1935,11,20,1935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1951
+Eastman Kodak Company,7$18$1930,7,18,1930,Pfizer Inc.,4$8$2004,4,8,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26928
+Hudson Motor Car Company,7$18$1930,7,18,1930,American Tobacco Company (B shares),5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,678
+Liggett & Myers Tobacco Company,7$18$1930,7,18,1930,The Coca-Cola Company,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,678
+United Aircraft and Transport Corporation,7$18$1930,7,18,1930,The Procter & Gamble Company,5$26$1932,5,26,1932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,678
+American Tobacco Company (B shares),5$26$1932,5,26,1932,McDonald's Corporation,10$30$1985,10,30,1985,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19515
+The Coca-Cola Company,5$26$1932,5,26,1932,National Steel Corporation,11$20$1935,11,20,1935,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1273
+International Business Machines Corporation,5$26$1932,5,26,1932,American Telephone and Telegraph Company,3$4$1939,3,4,1939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2473
+Nash Motors Company,5$26$1932,5,26,1932,United Aircraft Corporation,3$4$1939,3,4,1939,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2473
+Loew's Theatres Incorporated,5$26$1932,5,26,1932,International Paper Company,7$3$1956,7,3,1956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8804
+Drug Incorporated,5$26$1932,5,26,1932,Corn Products Refining Company,8$15$1933,8,15,1933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,446
+International Shoe Company,5$26$1932,5,26,1932,United Aircraft and Transport Corporation,8$15$1933,8,15,1933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,446
+The Procter & Gamble Company,5$26$1932,5,26,1932,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11865
+Corn Products Refining Company,8$15$1933,8,15,1933,Anaconda Copper Mining Company,6$1$1959,6,1,1959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9421
+United Aircraft and Transport Corporation,8$15$1933,8,15,1933,National Distillers Products Corporation,8$13$1934,8,13,1934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,363
+National Distillers Products Corporation,8$13$1934,8,13,1934,"Owens-Illinois, Inc.",6$1$1959,6,1,1959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9058
+National Steel Corporation,11$20$1935,11,20,1935,Swift & Company,6$1$1959,6,1,1959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8594
+E.I. du Pont de Nemours & Company,11$20$1935,11,20,1935,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13138
+American Telephone and Telegraph Company,3$4$1939,3,4,1939,American International Group Inc.,4$8$2004,4,8,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,5$6$1991,5,6,1991,AT&T Corporation,,,,,,,,,,,23777
+United Aircraft Corporation,3$4$1939,3,4,1939,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,8$9$1976,8,9,1976,United Technologies Corporation,,,,,,,,,,,14338
+International Paper Company,7$3$1956,7,3,1956,Verizon Communications Inc.,4$8$2004,4,8,2004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17446
+"Owens-Illinois, Inc.",6$1$1959,6,1,1959,The Coca-Cola Company,3$12$1987,3,12,1987,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10146
+Swift & Company,6$1$1959,6,1,1959,"Merck & Co., Inc.",6$29$1979,6,29,1979,,,,,,,,,,,,,,,,,,,,,,,,,,,8$9$1976,8,9,1976,Esmark,,,,,,,,,,,7333
+Anaconda Copper Mining Company,6$1$1959,6,1,1959,Minnesota Mining & Manufacturing Company,8$9$1976,8,9,1976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6279
+Aluminum Company of America,6$1$1959,6,1,1959,"The Goldman Sachs Group, Inc.",9$23$2013,9,23,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,11$1$1999,11,1,1999,Alcoa Inc.,,,,,,,,,,,19838
+Minnesota Mining & Manufacturing Company,8$9$1976,8,9,1976,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,1$27$2003,1,27,2003,3M Company,,,,,,,,,,,28011
+International Business Machines Corporation,6$29$1979,6,29,1979,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29065
+"Merck & Co., Inc.",6$29$1979,6,29,1979,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29065
+American Express Company,8$30$1982,8,30,1982,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30223
+Philip Morris Companies Inc.,10$30$1985,10,30,1985,Bank of America Corporation,2$19$2008,2,19,2008,,,,,,,,,,,,,,,,,,,,,,,,,,,1$27$2003,1,27,2003,"Altria Group, Incorporated",,,,,,,,,,,8147
+McDonald's Corporation,10$30$1985,10,30,1985,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31380
+The Boeing Company,3$12$1987,3,12,1987,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31878
+The Coca-Cola Company,3$12$1987,3,12,1987,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31878
+Caterpillar Inc.,5$6$1991,5,6,1991,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33394
+J.P. Morgan & Company,5$6$1991,5,6,1991,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,1$27$2003,1,27,2003,JPMorgan Chase & Co.,,,,,,,,,,,33394
+The Walt Disney Company,5$6$1991,5,6,1991,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33394
+Travelers Inc.,3$17$1997,3,17,1997,"Cisco Systems, Inc.",6$8$2009,6,8,2009,,,,,,,,,,,11$1$1999,11,1,1999,Citicorp,,,,,,,,,,,,11$1$1999,11,1,1999,Citigroup Inc.,,,,,,,,,,,4466
+Hewlett-Packard Company,3$17$1997,3,17,1997,Visa Inc.,9$23$2013,9,23,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6034
+Johnson & Johnson,3$17$1997,3,17,1997,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35536
+"Wal-Mart Stores, Inc.",3$17$1997,3,17,1997,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35536
+SBC Communications Inc.,11$1$1999,11,1,1999,Apple Inc.,3$19$2015,3,19,2015,4$8$2004,4,8,2004,AT&T Corporation,,,,,,,,,,,,,,,,,,,,,,4$8$2004,4,8,2004,AT&T Inc.,,,,,,,,,,,5617
+"The Home Depot, Inc.",11$1$1999,11,1,1999,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36495
+Intel Corporation,11$1$1999,11,1,1999,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36495
+Microsoft Corporation,11$1$1999,11,1,1999,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36495
+American International Group Inc.,4$8$2004,4,8,2004,Kraft Foods Inc,9$22$2008,9,22,2008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1628
+Pfizer Inc.,4$8$2004,4,8,2004,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38115
+Verizon Communications Inc.,4$8$2004,4,8,2004,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,38115
+Bank of America Corporation,2$19$2008,2,19,2008,"Nike, Inc.",9$23$2013,9,23,2013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2043
+Chevron Corporation,2$19$2008,2,19,2008,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39527
+Kraft Foods Inc,9$22$2008,9,22,2008,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39743
+"Cisco Systems, Inc.",6$8$2009,6,8,2009,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40002
+"The Travelers Companies, Inc.",6$8$2009,6,8,2009,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40002
+"The Goldman Sachs Group, Inc.",9$23$2013,9,23,2013,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41570
+"Nike, Inc.",9$23$2013,9,23,2013,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41570
+Visa Inc.,9$23$2013,9,23,2013,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41570
+Apple Inc.,3$19$2015,3,19,2015,,NOT,1,1,2017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42112
